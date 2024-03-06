@@ -7,6 +7,7 @@ output:
     highlight: pygments
     css: ../lab.css
 link-citations: true
+author: "Evan Kurtz"
 ---
 
 ```{r setup, include=FALSE}
